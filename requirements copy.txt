@@ -1,0 +1,2 @@
+easygui
+#pywin32
