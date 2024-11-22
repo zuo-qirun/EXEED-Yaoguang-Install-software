@@ -2,6 +2,7 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zuo-qirun/Chery-Tiggo9-Install-software&type=Date)](https://star-history.com/#zuo-qirun/Chery-Tiggo9-Install-software&Date)
 
+## 重要通知: 本仓库已与[Chery-Tiggo9-Install-software](https://github.com/zuo-qirun/Chery-Tiggo9-Install-software)合并，不再更新
 ## 必看！！使用说明！！！
 
 ### (一)  启用车机adb
